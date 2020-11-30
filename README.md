@@ -12,7 +12,8 @@
 
 ● `Tensorflow = 2.2.0`
 
-
+&emsp;
+&emsp;
 
 ## File & How to Use
 ● `gesture_getBinary.py`: Using opencv to capture binary images of gesture what you want.
@@ -23,10 +24,13 @@
 
 [Weights Download](https://drive.google.com/file/d/1MP-mdzV9R8b5lEizOlK3h58SwA-n1MsX/view?usp=sharing )
 
-
+&emsp;
+&emsp;
 
 ## Gesture Recognition Classification
 
+&emsp;
+&emsp;
 
 
 
