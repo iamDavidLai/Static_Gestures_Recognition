@@ -16,12 +16,21 @@ The image in these folders is for reference.
 You can use gesture_getBinary.py to capture the gesture pics youn want.
 
 
+
+
+
 Using Data Augmentation, 
+
+https://keras.io/api/preprocessing/image/
+https://vijayabhaskar96.medium.com/tutorial-image-classification-with-keras-flow-from-directory-and-generators-95f75ebe5720
+
 In Keras, the ImageDataGenerator class has flow_from_directory()  to read images.
 Please note the naming rule of folder.
 The folder names for classes(labels) are very important!
 
 class_"label"_"the name you want"  ==   class_0_none
+
+
 
 
 
