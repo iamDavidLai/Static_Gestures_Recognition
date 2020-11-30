@@ -28,6 +28,9 @@
 &emsp;
 
 ## Gesture Recognition Classification
+The conception of gesture has 50% reference from [gesture_jester](https://github.com/mdylan2/gesture_jester)
+&emsp;
+
 |Folder Name|Icon|Binary Images
 |---|---|----
 |class_0_none|![none](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_0_none_128.jpg)|![none](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_0_none/1.png)
