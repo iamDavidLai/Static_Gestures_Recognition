@@ -28,7 +28,8 @@
 &emsp;
 
 ## Gesture Recognition Classification
-The conception of gesture has 50% reference from [gesture_jester](https://github.com/mdylan2/gesture_jester).  ### **So grateful!!**
+The conception of gesture has 50% reference from [gesture_jester](https://github.com/mdylan2/gesture_jester).  
+**### So grateful!!**
 
 &emsp;
 
