@@ -29,14 +29,14 @@
 
 ## Gesture Recognition Classification
 
-![](https://github.com/Static_Gestures_Recognition/raw/master/images/icon/class_0_none_128.jpg)
-![](https://github.com/Static_Gestures_Recognition/raw/master/images/icon/class_1_fist_128.jpg)
-![](https://github.com/Static_Gestures_Recognition/raw/master/images/icon/class_2_love-you_128.jpg)
-![](https://github.com/Static_Gestures_Recognition/raw/master/images/icon/class_3_five_128.jpg)
-![](https://github.com/Static_Gestures_Recognition/raw/master/images/icon/class_4_okay_128.jpg)
-![](https://github.com/Static_Gestures_Recognition/raw/master/images/icon/class_5_peace_128.jpg)
-![](https://github.com/Static_Gestures_Recognition/raw/master/images/icon/class_6_straight_128.jpg)
-![](https://github.com/Static_Gestures_Recognition/raw/master/images/icon/class_7_thumbs_128.jpg)
+![](https://github.com/iamDavidLai/Static_Gestures_Recognition/raw/master/images/icon/class_0_none_128.jpg)
+![](https://github.com/iamDavidLai/Static_Gestures_Recognition/raw/master/images/icon/class_1_fist_128.jpg)
+![](https://github.com/iamDavidLai/Static_Gestures_Recognition/raw/master/images/icon/class_2_love-you_128.jpg)
+![](https://github.com/iamDavidLai/Static_Gestures_Recognition/raw/master/images/icon/class_3_five_128.jpg)
+![](https://github.com/iamDavidLai/Static_Gestures_Recognition/raw/master/images/icon/class_4_okay_128.jpg)
+![](https://github.com/iamDavidLai/Static_Gestures_Recognition/raw/master/images/icon/class_5_peace_128.jpg)
+![](https://github.com/iamDavidLai/Static_Gestures_Recognition/raw/master/images/icon/class_6_straight_128.jpg)
+![](https://github.com/iamDavidLai/Static_Gestures_Recognition/raw/master/images/icon/class_7_thumbs_128.jpg)
 
 
 &emsp;
