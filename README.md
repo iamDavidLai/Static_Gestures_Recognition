@@ -4,19 +4,16 @@
 
 
 ## Library & Tools
-  Google Colab
-
-  Python = 3.6.1
-
-  OpenCV
-
-  Keras = 2.3.1
-
-  Tensorflow = 2.2.0
+● Google Colab
+● Python = 3.6.1
+● OpenCV
+● Keras = 2.3.1
+● Tensorflow = 2.2.0
 
 
 ## File & How to Use
-gesture_getBinary.py:
+● 'gesture_getBinary.py':
+● 'my_predict.py':
 
 
 
