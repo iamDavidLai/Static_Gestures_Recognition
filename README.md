@@ -28,16 +28,16 @@
 &emsp;
 
 ## Gesture Recognition Classification
-|#|Icon|Binary Images
+|Folder name|Icon|Binary Images
 |---|---|----
-|0|![none](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_0_none_128.jpg)|![none](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_0_none/1.png)
-|1|![fist](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_1_fist_128.jpg)|![fist](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_1_fist/1.png)
-|2|![Iloveyou](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_2_love-you_128.jpg)|![Iloveyou](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_2_iloveyou/1.png)
-|3|![five](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_3_five_128.jpg)|![five](https://github.com/iamDavidLai/Static_Gestures_Recognition/tree/main/images/my_gesture_7-2/train/class_3_five/1.png)
-|4|![okay](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_4_okay_128.jpg)|![okay](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_4_okay/1.jpg)
-|5|![peace](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_5_peace_128.jpg)|![peace](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_5_peace/1.jpg)
-|6|![straight](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_6_straight_128.jpg)|![straight](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_6_straight/1.jpg)
-|7|![thumbs](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_7_thumbs_128.jpg)|![thumbs](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_7_thumbs/1.jpg)
+|class_0_none|![none](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_0_none_128.jpg)|![none](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_0_none/1.png)
+|class_1_fist|![fist](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_1_fist_128.jpg)|![fist](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_1_fist/1.png)
+|class_2_iloveyou|![Iloveyou](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_2_love-you_128.jpg)|![Iloveyou](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_2_iloveyou/1.png)
+|class_3_five|![five](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_3_five_128.jpg)|![five](https://github.com/iamDavidLai/Static_Gestures_Recognition/tree/main/images/my_gesture_7-2/train/class_3_five/1.png)
+|class_4_okay|![okay](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_4_okay_128.jpg)|![okay](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_4_okay/1.jpg)
+|class_5_peace|![peace](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_5_peace_128.jpg)|![peace](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_5_peace/1.jpg)
+|class_6_straight|![straight](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_6_straight_128.jpg)|![straight](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_6_straight/1.jpg)
+|class_7_thumbs|![thumbs](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/icon/class_7_thumbs_128.jpg)|![thumbs](https://github.com/iamDavidLai/Static_Gestures_Recognition/blob/main/images/my_gesture_7-2/train/class_7_thumbs/1.jpg)
 
 
 &emsp;
