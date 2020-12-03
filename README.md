@@ -43,7 +43,7 @@ To Build Gestures Recognition on you own!
 
 ## File & How to Use
 
-● `Gesture_recog_7.ipynb`: The ipynb file is coded by Google Colab which contains using data augmentation, training CNN model.
+● `Gesture_recog_7.ipynb`: The ipynb file is coded on Google Colab(GPU recommend) which contains using data augmentation, training CNN model.
 
 ● `gesture_getBinary.py`: Using opencv to capture binary images of gesture what you want.
 
