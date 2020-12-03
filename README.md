@@ -1,11 +1,13 @@
 # Static_Gestures_Recognition
 
-To Build Gestures Recognition on you own! please refer info below
+To Build Gestures Recognition on you own! 
 
 
 ## Demo
 [![Watch the video](https://img.youtube.com/vi/pOGrIYQsabE/hqdefault.jpg)](https://www.youtube.com/watch?v=pOGrIYQsabE)
 
+&emsp;
+&emsp;
 
 ## Development Record(開發過程記錄-中文) : 
 [(1): Conception](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
@@ -20,7 +22,8 @@ To Build Gestures Recognition on you own! please refer info below
 
 [(6): Training Model & Next Step](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
 
-
+&emsp;
+&emsp;
 
 ## Library & Tools
 ● Google Colab: It highly recommend you to use GPU function training your own model.
@@ -50,6 +53,9 @@ To Build Gestures Recognition on you own! please refer info below
 
 ## Gesture Recognition Classification
 The conception of gesture has 50% reference from [gesture_jester](https://github.com/mdylan2/gesture_jester).  
+
+&emsp;
+
 **So grateful!!**
 
 &emsp;
@@ -70,6 +76,3 @@ The conception of gesture has 50% reference from [gesture_jester](https://github
 &emsp;
 
 
-
-
-to be written...
