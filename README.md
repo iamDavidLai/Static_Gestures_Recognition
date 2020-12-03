@@ -10,17 +10,17 @@ To Build Gestures Recognition on you own!
 &emsp;
 
 ## Development Record(開發過程記錄-中文) : 
-[(1): Conception](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+[(1) Conception](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
 
-[(2): Solution finding](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+[(2) Solution finding](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-2.html)
 
-[(3): Define workflow](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+[(3) Define workflow](http://iamdavidlai.blogspot.com/2020/11/dlstatic-gestures-recognition3-define.html)
 
-[(4): Preparing appropriate dataset](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+[(4) Preparing appropriate dataset](http://iamdavidlai.blogspot.com/2020/11/dlstatic-gestures-recognition4.html)
 
-[(5): Time is worth more than money](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+[(5) Time is worth more than money](http://iamdavidlai.blogspot.com/2020/11/dlstatic-gestures-recognition5-time-is.html)
 
-[(6): Training Model & Next Step](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+[(6) Training Model & Next Step](http://iamdavidlai.blogspot.com/2020/11/dlstatic-gestures-recognition6-training.html)
 
 &emsp;
 &emsp;
@@ -56,7 +56,7 @@ The conception of gesture has 50% reference from [gesture_jester](https://github
 
 &emsp;
 
-**So grateful!!**
+#**So grateful!!**     :blush:
 
 &emsp;
 
