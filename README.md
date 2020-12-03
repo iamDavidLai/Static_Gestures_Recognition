@@ -4,6 +4,7 @@
 
 
 ## Demo
+[![Watch the video](https://raw.githubusercontent.com/iamDavidLai/Static_Gestures_Recognition/main/images/film_cover.jpg)](https://www.youtube.com/watch?v=pOGrIYQsabE)
 
 
 ## Library & Tools
