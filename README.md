@@ -9,11 +9,17 @@ To Build Gestures Recognition on you own! please refer info below
 
 ## Development Record(開發過程記錄-中文) : 
 [(1): Conception](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+
 [(2): Solution finding](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+
 [(3): Define workflow](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+
 [(4): Preparing appropriate dataset](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+
 [(5): Time is worth more than money](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+
 [(6): Training Model & Next Step](http://iamdavidlai.blogspot.com/2020/12/dlstatic-gestures-recognition-1.html)
+
 
 
 ## Library & Tools
